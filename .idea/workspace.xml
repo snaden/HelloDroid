@@ -12,6 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="557a5c16-c09d-43cc-9ee7-05e1c0cc670a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloDroid.iws" />
@@ -91,7 +92,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.7075209" vertical-offset="91" max-vertical-offset="450">
+            <state line="13" column="66" selection-start="687" selection-end="687" vertical-scroll-proportion="0.2896936" vertical-offset="91" max-vertical-offset="450">
               <folding />
             </state>
           </provider>
@@ -526,21 +527,25 @@
       <workItem from="1392578609846" duration="256000" />
       <workItem from="1392578914456" duration="1595000" />
       <workItem from="1392582588185" duration="1551000" />
-      <workItem from="1392584251993" duration="1985000" />
+      <workItem from="1392584251993" duration="2201000" />
     </task>
     <task id="LOCAL-00001" summary="just changed the message on the layout screen">
       <created>1392585679409</created>
       <updated>1392585679409</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="trying to fix a git error having to do with mac os x keychain">
+      <created>1392586267421</created>
+      <updated>1392586267421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8998000" />
+    <option name="totallyTimeSpent" value="9214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="22" width="1188" height="748" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -586,7 +591,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="just changed the message on the layout screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="just changed the message on the layout screen" />
+    <MESSAGE value="trying to fix a git error having to do with mac os x keychain" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to fix a git error having to do with mac os x keychain" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -735,7 +741,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.7075209" vertical-offset="91" max-vertical-offset="450">
+        <state line="13" column="66" selection-start="687" selection-end="687" vertical-scroll-proportion="0.2896936" vertical-offset="91" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
